@@ -76,6 +76,16 @@ body {
   padding-left: 20px;
 }
 
+sup {
+  font-size: 70%;
+  vertical-align: super;
+}
+
+hr {
+  border-top: 1px dashed;
+  padding-bottom: 12px; 
+}
+
 /* nav */
 
 nav {
