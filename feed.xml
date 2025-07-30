@@ -9,11 +9,18 @@
 		<lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jeffreymoro.com/index.xml" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>Sonnets</title>
+			<link>https://jeffreymoro.com/blog/2025-07-30-sonnets.html</link>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+			<guid>https://jeffreymoro.com/blog/2025-07-30-wood.html</guid>
+			<description>in which we write poetry</description>
+		</item>
+		<item>
 			<title>Wood</title>
 			<link>https://jeffreymoro.com/blog/2025-07-04-wood.html</link>
 			<pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
 			<guid>https://jeffreymoro.com/blog/2025-07-04-wood.html</guid>
-			<description>in which we close read a glam rock song</description>
+			<description>in which we refinish our floors</description>
 		</item>
 		<item>
 			<title>The Heat</title>
