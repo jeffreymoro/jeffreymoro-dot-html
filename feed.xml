@@ -10,6 +10,13 @@
 		<atom:link href="https://jeffreymoro.com/index.xml" rel="self" type="application/rss+xml"/>
 		<item>
 			<title>Bench Press</title>
+			<link>https://jeffreymoro.com/blog/2025-10-13-intracoastal.html</link>
+			<pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+			<guid>https://jeffreymoro.com/blog/2025-10-13-intracoastal.html</guid>
+			<description>in which we address several different plants</description>
+		</item>
+		<item>
+			<title>Bench Press</title>
 			<link>https://jeffreymoro.com/blog/2025-08-15-bench-press.html</link>
 			<pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
 			<guid>https://jeffreymoro.com/blog/2025-08-15-bench-press.html</guid>
@@ -35,13 +42,6 @@
 			<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
 			<guid>https://jeffreymoro.com/blog/2025-06-06-the-heat.html</guid>
 			<description>in which we close read a glam rock song</description>
-		</item>
-		<item>
-			<title>A Beginning</title>
-			<link>https://jeffreymoro.com/blog/2025-06-06-a-beginning.html</link>
-			<pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-			<guid>https://jeffreymoro.com/blog/2025-06-06-a-beginning.html</guid>
-			<description>init; a welcome; macro and micro factors; the Tower of Winds; we begin anew</description>
 		</item>
 	</channel>
 </rss>
