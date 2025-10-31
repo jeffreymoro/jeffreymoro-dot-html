@@ -9,7 +9,14 @@
 		<lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jeffreymoro.com/index.xml" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>Bench Press</title>
+			<title>Dumbphone</title>
+			<link>https://jeffreymoro.com/blog/2025-10-31-dumbphone.html</link>
+			<pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+			<guid>https://jeffreymoro.com/blog/2025-10-31-dumbphone.html</guid>
+			<description>in which we inquire after a post-Phone world</description>
+		</item>
+		<item>
+			<title>Intracoastal</title>
 			<link>https://jeffreymoro.com/blog/2025-10-13-intracoastal.html</link>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
 			<guid>https://jeffreymoro.com/blog/2025-10-13-intracoastal.html</guid>
