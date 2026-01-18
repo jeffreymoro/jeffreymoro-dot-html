@@ -9,6 +9,13 @@
 		<lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://jeffreymoro.com/index.xml" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>Hōjōki</title>
+			<link>https://jeffreymoro.com/blog/2026-01-18-hojoki.html</link>
+			<pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+			<guid>https://jeffreymoro.com/blog/2026-01-08-hojoki.html</guid>
+			<description>in which we make red sauce</description>
+		</item>
+		<item>
 			<title>Roundup 2k25</title>
 			<link>https://jeffreymoro.com/blog/2026-01-07-roundup-2k25.html</link>
 			<pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
@@ -42,20 +49,6 @@
 			<pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
 			<guid>https://jeffreymoro.com/blog/2025-07-30-wood.html</guid>
 			<description>in which we write poetry</description>
-		</item>
-		<item>
-			<title>Wood</title>
-			<link>https://jeffreymoro.com/blog/2025-07-04-wood.html</link>
-			<pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-			<guid>https://jeffreymoro.com/blog/2025-07-04-wood.html</guid>
-			<description>in which we refinish our floors</description>
-		</item>
-		<item>
-			<title>The Heat</title>
-			<link>https://jeffreymoro.com/blog/2025-06-20-the-heat.html</link>
-			<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-			<guid>https://jeffreymoro.com/blog/2025-06-06-the-heat.html</guid>
-			<description>in which we close read a glam rock song</description>
 		</item>
 	</channel>
 </rss>
